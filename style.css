@@ -1,0 +1,68 @@
+/* Colores de texto */
+.bold-text,
+.underline-text {
+    color: blue;
+}
+
+/* Font-family */
+body {
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Font-size */
+.bold-text,
+.underline-text {
+    font-size: 1.2em;
+}
+
+/* Font-weight */
+.bold-text {
+    font-weight: bold;
+}
+
+/* Text-align */
+.text-align {
+    text-align: right;
+}
+
+/* Line-height */
+body {
+    line-height: 1.5;
+}
+
+/* Quotes */
+.quotes {
+    quotes: "“" "”";
+}
+
+/* Hyphens */
+body {
+    hyphens: auto;
+}
+
+/* Text-decoration */
+.underline-text {
+    text-decoration: underline;
+}
+
+/* Vertical-align */
+blockquote {
+    vertical-align: top;
+}
+
+/* Word-spacing */
+body {
+    word-spacing: 2px;
+}
+
+/* Writing-mode */
+blockquote {
+    writing-mode: vertical-rl;
+}
+
+/* Word-wrap */
+body {
+    word-wrap: break-word;
+}
